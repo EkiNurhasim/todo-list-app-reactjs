@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "07a3",
+      "text": "bermain futsal",
+      "completed": true
+    },
+    {
+      "id": "c9f5",
+      "text": "jogging",
+      "completed": true
+    },
+    {
+      "id": "ebdb",
+      "text": "bersepeda",
+      "completed": true
+    }
+  ]
+}
